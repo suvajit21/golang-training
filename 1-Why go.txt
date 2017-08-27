@@ -1,0 +1,44 @@
+performant
+Supports multiple cores and scale horizontally
+concurrency
+compiled
+network
+Clean syntax like scripting language
+powerful standard library
+garbage collected
+portable
+backed by google
+open source
+
+
+Golang can be used for :
+web apps
+scripts
+system admin
+image processing
+load balancers, servers
+crypto
+hardware
+Android & iOs
+
+godoc.org has standard libraries and third party libraries
+golang.org has standard libraries and packages
+golang.org/src: Provides source code
+
+Install Terminal Emulator & GitHub for Windows:
+https://git-for-windows.github.io/
+https://desktop.github.com/
+
+After installation set the GOPATH env variable to point to the workspace
+Set PATH variable to your bin
+
+
+Download source code from : 
+go get github.com/GoesToEleven/GolangTraining
+Setup Atom editor and install necessary plugins
+
+learn Commands : go run, go build (Builds Executable which can be run)
+go clean (removes the executable), go install (builds the executable and puts in within the bin folder)
+
+
+
